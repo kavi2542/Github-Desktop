@@ -3,4 +3,11 @@ nav{
   text-align: center;
   background-color: #333;
   color: white;
+} 
+header{
+  padding: 3rem;
+  text-align: center;
+height: 600px;
+  background-color: yellow;
+  color: rgb(17, 17, 17);
 }
